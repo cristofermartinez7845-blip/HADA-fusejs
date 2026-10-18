@@ -1,0 +1,16 @@
+export const juegos = [
+    {id: 1, nombre:'The Legend Of Zelda: TOTK' , categoria:'Aventura' , valor: 69.99},
+    {id: 2, nombre:'' , categoria:'' , valor: },
+    {id: 3, nombre:'' , categoria:'' , valor: },
+    {id: 4, nombre:'' , categoria:'' , valor: },
+    {id: 5, nombre:'' , categoria:'' , valor: },
+    {id: 6, nombre:'' , categoria:'' , valor: },
+    {id: 7, nombre:'' , categoria:'' , valor: },
+    {id: 8, nombre:'' , categoria:'' , valor: },
+    {id: 9, nombre:'' , categoria:'' , valor: },
+    {id: 10, nombre:'' , categoria:'' , valor: },
+    {id: 11, nombre:'' , categoria:'' , valor: },
+    {id: 12, nombre:'' , categoria:'' , valor: },
+    {id: 13, nombre:'Minecraft', categoria: 'Aventura', valor: 25},
+    {id: 14, nombre: 'GTA VI', categoria: 'Acción y Aventura', valor: 79.99},
+];
